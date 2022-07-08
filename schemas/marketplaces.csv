@@ -1,0 +1,15 @@
+field,type,description
+marketplace_id,string,unique id of the marketplace
+created_at,datetime,timestamp the marketplace was created
+updated_at,datetime,timestamp the marketplace was updated
+name,string,name of the marketplace
+methods,array,array of the types of methods the marketplace supports
+website,string,url of the marketplace
+logo,string,url of the marketplace logo
+slug,string,unique
+tagline,string,tagline of the marketplace
+description,string,description of the marketplace
+year_founded,string,year the marketplace was founded
+geo_city,string,city where the marketplace is headquartered
+geo_country,string,country where the marketplace is headquartered
+twitter,string,twitter handle of the marketplace

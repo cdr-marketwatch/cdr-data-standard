@@ -1,0 +1,20 @@
+field,type,description
+order_id,string,unique id for the order
+created_at,datetime,timestamp the order was created
+updated_at,datetime,timestamp the order was updated
+purchaser_id,string,unique id for the purchaser
+supplier_id,string,unique id for the supplier
+marketplace_id,string,unique id for the supplying marketplace
+status,string,"the status of the order. Options are delivered, undelivered, delivered (inferred), verified"
+delivery_status_source,string,url to the source with delivery confirmation 
+delivery_verified,bool,whether the delivery has been verified
+delivery_forecast,datetime,datetime of the delivery
+delivery_verification_source,string,url to the source of delivery verification 
+method,string,the method of carbon removal
+tons_purchased,number,total tons ordered
+price_usd,number,total price paid for the order
+latest_delivery_date,datetime,datetime of the delivery
+durability_years,number,years of durability for the method ordered
+announcement_date,datetime,timestamp the order announcement
+announcement_link,datetime,url to the announcement link
+marketplace_purchaser_id,string,unique id for the purchasing marketplace

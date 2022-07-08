@@ -1,0 +1,14 @@
+field,type,description
+purchaser_id,string,unique id of the purchaser
+created_at,datetime,timestamp the purchaser was created
+updated_at,datetime,timestamp the purchaser was updated
+name,string,name of the purchaser
+methods,array,array of the types of methods the marketplace supports
+website,string,url of the purchaser
+logo,string,url of the purchaser logo
+slug,string,unique slug for the purchaser
+tagline,string,tagline of the purchaser
+description,string,description of the purchaser
+geo_city,string,year the purchaser was founded
+geo_country,string,city where the purchaser is headquartered
+twitter,string,twitter handle of the purchaser

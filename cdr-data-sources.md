@@ -1,9 +1,9 @@
 # List of cdr.fyi Data Sources
 
 ## Marketplaces
-* [Puro Registry](https://registry.puro.earth/carbon-sequestration)
+* [Puro Registry API](https://registry.puro.earth/carbon-sequestration](https://api.registry.puro.earth/transactions/retirements)
 
-* [Klimate Registry](https://app.klimate.co/orders)
+* [Klimate Registry API]([https://app.klimate.co/orders](https://api-klimate-prod.azurewebsites.net/api/pub/v1/ProjectOrder))
 
 * [Carbon Removed Registry](https://docs.google.com/spreadsheets/d/11ajdfvSHyK3pb_X0GhpAso1wS0iw8BYpa86EtTG6QEY/edit#gid=0)
 
@@ -15,12 +15,11 @@
 * [Project Vesta Projects](https://www.vesta.earth/southampton#Project-Timeline)
 
 ## Purchasers
-
-* [Shopify Sustainability](https://www.shopify.com/climate/sustainability-fund)
-
 * [Frontier Registry](https://github.com/frontierclimate/carbon-removal-source-materials/tree/main/Purchase%20Agreements/2022%20Spring)
 
 * [Stripe Climate](https://github.com/stripe/carbon-removal-source-materials/tree/master/Purchase%20Agreements)
+
+* [Shopify Sustainability Site](https://www.shopify.com/climate/sustainability-fund)
 
 * [Microsoft Annual Reports (2021)](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4MDlc)
 

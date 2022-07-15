@@ -33,4 +33,4 @@
 
 * [Carbonplan CDR Database](https://carbonplan.org/research/cdr-database/methods)
 
-* One off press announcements: [piva](https://medium.com/piva-insights/piva-capitals-going-carbon-neutral-c169191b5066), [audi](https://www.audi-mediacenter.com/en/press-releases/in-depth-audi-and-climeworks-store-co2-from-the-atmosphere-underground-13095) and [zurich](https://www.zurich.com/en/media/news-releases/2022/2022-0331-01), [BCG](https://www.bcg.com/en-be/press/9december2021-bcg-signs-direct-air-capture-partnership-with-climeworks)
+* Press announcements: [piva](https://medium.com/piva-insights/piva-capitals-going-carbon-neutral-c169191b5066), [audi](https://www.audi-mediacenter.com/en/press-releases/in-depth-audi-and-climeworks-store-co2-from-the-atmosphere-underground-13095) and [zurich](https://www.zurich.com/en/media/news-releases/2022/2022-0331-01), [BCG](https://www.bcg.com/en-be/press/9december2021-bcg-signs-direct-air-capture-partnership-with-climeworks)

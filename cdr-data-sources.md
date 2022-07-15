@@ -1,9 +1,9 @@
 # List of cdr.fyi Data Sources
 
 ## Marketplaces
-* [Puro Registry API](https://registry.puro.earth/carbon-sequestration](https://api.registry.puro.earth/transactions/retirements)
+* [Puro Registry API](https://api.registry.puro.earth/transactions/retirements)
 
-* [Klimate Registry API]([https://app.klimate.co/orders](https://api-klimate-prod.azurewebsites.net/api/pub/v1/ProjectOrder))
+* [Klimate Registry API](https://api-klimate-prod.azurewebsites.net/api/pub/v1/ProjectOrder)
 
 * [Carbon Removed Registry](https://docs.google.com/spreadsheets/d/11ajdfvSHyK3pb_X0GhpAso1wS0iw8BYpa86EtTG6QEY/edit#gid=0)
 

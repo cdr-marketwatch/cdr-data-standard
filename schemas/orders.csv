@@ -5,7 +5,7 @@ updated_at,datetime,timestamp the order was updated
 purchaser_id,string,unique id for the purchaser
 supplier_id,string,unique id for the supplier
 marketplace_id,string,unique id for the supplying marketplace
-status,string,"the status of the order. Options are delivered, undelivered, delivered (inferred), verified"
+status,string,"the status of the order. Options are MOU/LOI, undelivered, delivered, or verified"
 delivery_status_source,string,url to the source with delivery confirmation 
 delivery_verified,bool,whether the delivery has been verified
 delivery_forecast,datetime,datetime of the delivery
